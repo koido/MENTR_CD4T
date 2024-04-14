@@ -1,0 +1,157 @@
+[22:36:30] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[0]	train-auc:0.820567	eval-auc:0.824948
+Multiple eval metrics have been passed: 'eval-auc' will be used for early stopping.
+
+Will train until eval-auc hasn't improved in 10 rounds.
+[22:36:31] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[1]	train-auc:0.836504	eval-auc:0.837972
+[22:36:32] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 28 extra nodes, 0 pruned nodes, max_depth=4
+[2]	train-auc:0.870337	eval-auc:0.868908
+[22:36:32] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[3]	train-auc:0.871031	eval-auc:0.868656
+[22:36:33] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 28 extra nodes, 0 pruned nodes, max_depth=4
+[4]	train-auc:0.870693	eval-auc:0.868767
+[22:36:34] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[5]	train-auc:0.871113	eval-auc:0.868737
+[22:36:34] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[6]	train-auc:0.875632	eval-auc:0.871938
+[22:36:35] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[7]	train-auc:0.875826	eval-auc:0.871807
+[22:36:36] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[8]	train-auc:0.877123	eval-auc:0.872997
+[22:36:36] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 28 extra nodes, 0 pruned nodes, max_depth=4
+[9]	train-auc:0.876842	eval-auc:0.873127
+[22:36:37] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[10]	train-auc:0.877048	eval-auc:0.873695
+[22:36:38] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[11]	train-auc:0.87774	eval-auc:0.874325
+[22:36:38] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[12]	train-auc:0.879025	eval-auc:0.8742
+[22:36:39] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[13]	train-auc:0.87989	eval-auc:0.875156
+[22:36:40] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 26 extra nodes, 0 pruned nodes, max_depth=4
+[14]	train-auc:0.880285	eval-auc:0.875392
+[22:36:40] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[15]	train-auc:0.880724	eval-auc:0.875828
+[22:36:41] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 28 extra nodes, 0 pruned nodes, max_depth=4
+[16]	train-auc:0.880791	eval-auc:0.875902
+[22:36:42] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[17]	train-auc:0.881184	eval-auc:0.876259
+[22:36:42] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[18]	train-auc:0.881326	eval-auc:0.876273
+[22:36:43] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[19]	train-auc:0.881607	eval-auc:0.876504
+[22:36:44] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[20]	train-auc:0.881743	eval-auc:0.87643
+[22:36:44] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[21]	train-auc:0.881896	eval-auc:0.876615
+[22:36:45] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 28 extra nodes, 0 pruned nodes, max_depth=4
+[22]	train-auc:0.881932	eval-auc:0.876703
+[22:36:45] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[23]	train-auc:0.882169	eval-auc:0.876896
+[22:36:46] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[24]	train-auc:0.882339	eval-auc:0.876996
+[22:36:47] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 28 extra nodes, 0 pruned nodes, max_depth=4
+[25]	train-auc:0.882497	eval-auc:0.877102
+[22:36:47] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 28 extra nodes, 0 pruned nodes, max_depth=4
+[26]	train-auc:0.882493	eval-auc:0.877147
+[22:36:48] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[27]	train-auc:0.882633	eval-auc:0.87712
+[22:36:49] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[28]	train-auc:0.882716	eval-auc:0.877117
+[22:36:49] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[29]	train-auc:0.882881	eval-auc:0.877207
+[22:36:50] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[30]	train-auc:0.882983	eval-auc:0.877195
+[22:36:51] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[31]	train-auc:0.88348	eval-auc:0.877569
+[22:36:51] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[32]	train-auc:0.883551	eval-auc:0.877653
+[22:36:52] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[33]	train-auc:0.883751	eval-auc:0.877622
+[22:36:53] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[34]	train-auc:0.883766	eval-auc:0.877654
+[22:36:53] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[35]	train-auc:0.883818	eval-auc:0.877692
+[22:36:54] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[36]	train-auc:0.883841	eval-auc:0.877724
+[22:36:55] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[37]	train-auc:0.883884	eval-auc:0.877747
+[22:36:55] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 26 extra nodes, 0 pruned nodes, max_depth=4
+[38]	train-auc:0.883733	eval-auc:0.877502
+[22:36:56] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[39]	train-auc:0.883877	eval-auc:0.877585
+[22:36:57] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[40]	train-auc:0.884036	eval-auc:0.877695
+[22:36:57] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[41]	train-auc:0.884074	eval-auc:0.877792
+[22:36:58] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[42]	train-auc:0.884052	eval-auc:0.877721
+[22:36:58] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[43]	train-auc:0.884145	eval-auc:0.877725
+[22:36:59] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[44]	train-auc:0.884327	eval-auc:0.878472
+[22:37:00] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[45]	train-auc:0.884427	eval-auc:0.87848
+[22:37:00] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 28 extra nodes, 0 pruned nodes, max_depth=4
+[46]	train-auc:0.884595	eval-auc:0.878763
+[22:37:01] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[47]	train-auc:0.884749	eval-auc:0.878967
+[22:37:02] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[48]	train-auc:0.884825	eval-auc:0.879098
+[22:37:02] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[49]	train-auc:0.884897	eval-auc:0.87905
+[22:37:03] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[50]	train-auc:0.88502	eval-auc:0.879065
+[22:37:04] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[51]	train-auc:0.88502	eval-auc:0.879128
+[22:37:04] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[52]	train-auc:0.885144	eval-auc:0.879283
+[22:37:05] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[53]	train-auc:0.885242	eval-auc:0.879451
+[22:37:06] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[54]	train-auc:0.88532	eval-auc:0.879504
+[22:37:06] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[55]	train-auc:0.88538	eval-auc:0.879627
+[22:37:07] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[56]	train-auc:0.885413	eval-auc:0.879687
+[22:37:08] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[57]	train-auc:0.885446	eval-auc:0.87962
+[22:37:08] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[58]	train-auc:0.885768	eval-auc:0.879614
+[22:37:09] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[59]	train-auc:0.885841	eval-auc:0.879635
+[22:37:10] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 26 extra nodes, 0 pruned nodes, max_depth=4
+[60]	train-auc:0.885855	eval-auc:0.879762
+[22:37:10] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[61]	train-auc:0.885956	eval-auc:0.87985
+[22:37:11] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 26 extra nodes, 0 pruned nodes, max_depth=4
+[62]	train-auc:0.885941	eval-auc:0.87984
+[22:37:12] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 26 extra nodes, 0 pruned nodes, max_depth=4
+[63]	train-auc:0.885923	eval-auc:0.879826
+[22:37:12] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[64]	train-auc:0.886089	eval-auc:0.879855
+[22:37:13] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[65]	train-auc:0.886153	eval-auc:0.879853
+[22:37:13] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 26 extra nodes, 0 pruned nodes, max_depth=4
+[66]	train-auc:0.886131	eval-auc:0.879825
+[22:37:14] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[67]	train-auc:0.886289	eval-auc:0.879815
+[22:37:15] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[68]	train-auc:0.886328	eval-auc:0.879763
+[22:37:15] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[69]	train-auc:0.886517	eval-auc:0.879779
+[22:37:16] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[70]	train-auc:0.886756	eval-auc:0.87978
+[22:37:17] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[71]	train-auc:0.886903	eval-auc:0.879768
+[22:37:17] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[72]	train-auc:0.886889	eval-auc:0.879767
+[22:37:18] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[73]	train-auc:0.886923	eval-auc:0.87973
+[22:37:19] src/tree/updater_prune.cc:74: tree pruning end, 1 roots, 30 extra nodes, 0 pruned nodes, max_depth=4
+[74]	train-auc:0.887067	eval-auc:0.879751
+Stopping. Best iteration:
+[64]	train-auc:0.886089	eval-auc:0.879855
+
+=== Finish ===

@@ -1,0 +1,19 @@
+Loading y train...
+head of y after loading:
+            clusterID  label
+0  chr1:138620-139435      1
+1  chr1:812300-813169      1
+2  chr1:841239-842987      1
+3  chr1:857935-859060      1
+4  chr1:903797-905594      1
+Updating y_train and p_train.
+Shape of y_train (before filtering): (629024, 2)
+Shape of p_train (before filtering): (629024, 2)
+Shape of y_train (after filtering): (50214, 2)
+Shape of p_train (after filtering): (50214, 3)
+Shape of y_train_valid (after filtering): (10043,)
+Shape of p_train_valid (after filtering): (10043,)
+Calibrating train data
+Calibrating test data
+Calibrating other data
+=== Finish ===
